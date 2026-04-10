@@ -34,16 +34,16 @@ I am a curious and motivated student who enjoys learning, exploring new ideas, a
 
 ## 🌟 Interests
 
-- 🔬 Research in science and technology  
-- 🎨 Creative activities and design  
-- 🏃 Sports and physical activities  
-- 📚 Reading and self-learning  
+- 🔬 Research in science and technology.
+- 🌛🌜 Astronmy(telescope).
+- 🏃 badminton,basketball and football.
+- 📚 Reading and self-learning.
+- 💃 Dancing.
 
 ---
 
 ## 📬 Contact
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourusername  
-- Email: your.email@example.com  
+- GitHub: https://github.com/sherablhamo
+- Email: sherab.lhamo2022@academy.bt 
 - Website: https://yourwebsite.com  
