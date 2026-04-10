@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-![Profile Photo](https://drive.google.com/thumbnail?id=1N0KtqTLQr1KhqjenxlJ4XA_ag1sm8Vqc&sz=w400)
+![Profile Photo](https://drive.google.com/thumbnail?id=1LyKUazxtwii_xccb31hCTzYb1eeqW-om&sz=w400)
 
 ## Sherab Lhamo
 **Student**
