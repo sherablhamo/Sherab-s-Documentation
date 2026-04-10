@@ -125,6 +125,143 @@ Press the **Start Button** to begin laser cutting.
 - Stay near the machine during operation  
 
 ---
+## Short note on how to use
+# What is Laser Cutting?
+
+Laser cutting is the process of using a high-powered laser beam to cut or engrave materials such as:
+
+- Wood  
+- Acrylic (plastic)  
+- Cardboard  
+- Glass (engraving only)  
+
+It is widely used in:
+- Product design  
+- Prototyping  
+- Manufacturing  
+
+It allows:
+- Very precise cuts  
+- Detailed patterns and shapes  
+
+---
+
+# Software for 2D Design
+
+Some commonly used software:
+
+- Adobe Illustrator – Professional vector design software  
+- CorelDRAW – Popular for graphic design  
+- Inkscape – Free and open-source  
+- AutoCAD (2D) – Engineering drawings  
+- SketchUp – Mainly 3D but can export 2D  
+- Affinity Designer – Affordable alternative  
+- Tinkercad – Beginner-friendly  
+
+**We used: Inkscape**
+
+---
+
+# Steps for Laser Cutting (Design Process in Inkscape)
+
+## 1. Choose a Design
+- Search for a design (e.g., on Pinterest)  
+- Example: “Giraffe black and white”  
+- Copy and paste the image into Inkscape  
+- Use it as a reference to trace  
+
+---
+
+## 2. Convert Image to Vector (Trace Bitmap)
+Imported images may have:
+- Low resolution  
+- Blurry edges  
+- Small unwanted spots  
+
+To fix this:
+- Go to **Path → Trace Bitmap**  
+- OR right-click → Trace Bitmap  
+
+This converts the image into a clean vector outline.
+
+---
+
+## 3. Adjust the Settings
+- Use **Brightness Cutoff**  
+- Adjust until:
+  - The outline becomes clear  
+  - Unwanted details are removed  
+
+---
+
+## 4. Apply and Clean the Design
+- Click **Apply**  
+- Use the cursor tool (top left)  
+- Drag the image  
+- A clean duplicate appears  
+- Delete the original noisy image  
+
+---
+
+## 5. Create Cutting Boundary
+- Select the **Rectangle tool**  
+- Draw a box around your design  
+- This defines the cutting area  
+
+---
+
+## 6. Set Laser Cutting Parameters
+Go to engrave / laser settings and adjust:
+
+- Speed  
+- Power  
+- Mode:
+  - Engraving (surface)
+  - Vector cutting (deep cutting)  
+
+You can choose:
+- Vector + Deep Engraving (if needed)
+
+---
+
+## 7. Send to Machine (Print)
+- Click **Print**  
+- Ensure correct settings before sending  
+
+---
+
+# Machine Operation Steps
+
+## Before Starting
+Turn on:
+- Air exhaust system (removes smoke)  
+- Air pump (prevents burning and improves cutting)  
+
+---
+
+## Machine Setup
+Adjust:
+- Speed  
+- Power  
+- Auto Focus  
+
+Place material properly on the bed.
+
+---
+
+## Start Cutting
+- Press the **Start / Button**  
+- The laser machine begins cutting  
+
+---
+
+## After Cutting
+- Wait until the machine stops completely  
+- Remove material carefully  
+- Check:
+  - Clean cuts  
+  - No burns or errors
+
 
 ## Final Summary
 Laser cutting is a precise and efficient method for creating detailed designs using digital files and a laser machine. It is widely used in engineering, design, and manufacturing.
